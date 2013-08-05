@@ -14,7 +14,7 @@ The CVPR 2013 [Open Access Repository](http://www.cv-foundation.org/openaccess/C
 
 That's all about downloading!
 
-There are 471 papers in total of 2013 International Conference on Computer Vision and Pattern Recognition.
+There are 471 papers of 2013 International Conference on Computer Vision and Pattern Recognition in total.
 
 
  
