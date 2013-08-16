@@ -17,7 +17,7 @@ soup = BeautifulSoup(page.read())
 content_div = soup.find('div', {'id':'content'}) 
 
 for item in content_div.findAll('dt',{'class':'ptitle'}):
-    pdflink = item.findAll('br')[0].a
+    pdflink = item.findAll('a')[0]
     url_paper = pdflink.get('href')
     url_paper = 'http://www.cv-foundation.org/openaccess/' + url_paper
     print url_paper
