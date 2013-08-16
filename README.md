@@ -6,7 +6,7 @@ The CVPR 2013 [Open Access Repository](http://www.cv-foundation.org/openaccess/C
 
 ### Usage ###
 
-- Install [Python 2.7](http://www.python.org/download/releases/2.7/).
+- Install [Python 2.7](http://www.python.org/download/releases/2.7.5/).
 - Install [Beautiful Soup 4.2.1](http://www.crummy.com/software/BeautifulSoup/#Download).
 - Download the [CVPR-2013-downloader.py](https://github.com/mingloo/CVPR-2013-downloader/blob/master/CVPR2013Downloader.py) and open it with any text editor you prefer.
 - Set the download folder path in Line 6 of [CVPR-2013-downloader.py](https://github.com/mingloo/CVPR-2013-downloader/blob/master/CVPR2013Downloader.py) and save it.
